@@ -27,7 +27,7 @@ This section will contain a low level overview of the project along with the mod
 3. - [ ] Paper Writing
 		- [x] Abstract - Shahriar
     - [ ] Introduction - Shahriar
-    - [ ] Literature Review - Constantine
+    - [x] Literature Review - Constantine
     - [ ] Result and Analysis - Mark, Shahriar, Constantine
 
 4. - [ ] Real Time Data update using server .
